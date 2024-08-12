@@ -9,5 +9,6 @@ An android app made using Kivy and SQLite
 - Different modes for game session
 - Player profile stats and game history
 
-  Packaged using the [Buildozer module](https://buildozer.readthedocs.io/en/latest/)
-  ** Download APK ** [Here](https://drive.google.com/file/d/1VKOx3hGfA4U375VC4h93dJqGfhs89Evj/view?usp=drive_link)
+
+Packaged using the [Buildozer module](https://buildozer.readthedocs.io/en/latest/)
+** Download APK ** [Here](https://drive.google.com/file/d/1VKOx3hGfA4U375VC4h93dJqGfhs89Evj/view?usp=drive_link)
