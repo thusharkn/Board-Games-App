@@ -1,7 +1,7 @@
 # Board Games App
 An android app made using Kivy and SQLite
 
-(https://github.com/thusharkn/Board-Games-App/"Screenshot from 2024-07-19 14-56-54.png")
+(https://github.com/thusharkn/Board-Games-App/"Screenshot from 2024-07-19 14-56-54".png)
 
 ## App features
 - Login authentication using local db
