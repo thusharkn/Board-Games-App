@@ -1,7 +1,6 @@
 # Board Games App
 
 ![image1](https://github.com/thusharkn/Board-Games-App/blob/main/screenshot1)  
-![image2](https://github.com/thusharkn/Board-Games-App/blob/main/screenshot2)
 
 ## App features
 - Login authentication using local db
@@ -12,7 +11,6 @@
 
 Packaged using the [Buildozer module](https://buildozer.readthedocs.io/en/latest/)
 
+### Download APK [Here](https://drive.google.com/file/d/1VKOx3hGfA4U375VC4h93dJqGfhs89Evj/view?usp=drive_link)
 
-> Download APK [Here](https://drive.google.com/file/d/1VKOx3hGfA4U375VC4h93dJqGfhs89Evj/view?usp=drive_link)
-
-> Temporary Creds -> username: test; password: pass
+Temporary Creds -> username: test; password: pass
