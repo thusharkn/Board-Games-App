@@ -4,7 +4,7 @@
 
 ## App features
 - Login authentication using local db
-- User dashbaord with game analytics
+- User dashboard with game analytics
 - Different modes for game session
 - Player profile stats and game history
 
